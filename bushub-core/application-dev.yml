@@ -1,2 +1,3 @@
 demo:
+  strategy: DUMMY
   message: Hello core from config server!
